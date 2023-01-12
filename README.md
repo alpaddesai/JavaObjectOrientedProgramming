@@ -1,4 +1,4 @@
-# Java ObjectOriented Programming
+# Java Object Oriented Programming
 
 The project provides an overview object oriented programming in Java
 
