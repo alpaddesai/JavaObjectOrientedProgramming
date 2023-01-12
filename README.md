@@ -14,5 +14,5 @@ The project provides an overview object oriented programming in Java
 ## Design Patterns Certification
 ![image](DesignPatternsJavaCertificate.jpg)
 
-Additional details please reference Advanced knowledge reference : https://github.com/alpaddesai/Algorithms,
+Advanced knowledge reference : https://github.com/alpaddesai/Algorithms,
 https://github.com/alpaddesai/ObjectOrientedDesignProgramming, and https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp
