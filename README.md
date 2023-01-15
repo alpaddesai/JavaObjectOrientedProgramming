@@ -16,7 +16,7 @@ The project provides an overview object oriented programming in Java
 
 ![image](EthicsandExcellence.png)
 
-
+![image](USCopyrightCertificate.png)
 
 Advanced knowledge reference : https://github.com/alpaddesai/Algorithms,
 https://github.com/alpaddesai/ObjectOrientedDesignProgramming, and https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp
