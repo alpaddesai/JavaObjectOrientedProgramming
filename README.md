@@ -2,7 +2,7 @@
 
 The project provides an overview object oriented programming in Java
 
-### Deitel Java early objects
+### Deitel Java how to program 11/e early objects
 
 ## Java Certification
 ![image](Java.jpg)
