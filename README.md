@@ -11,9 +11,6 @@ The project provides an overview object oriented programming in Java
 ## Modern Java
 ![image](ModernJava.jpg)
 
-## Design Patterns Certification
-![image](DesignPatternsJavaCertificate.jpg)
-
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
