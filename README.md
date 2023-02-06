@@ -17,4 +17,4 @@ The project provides an overview object oriented programming in Java
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/SimulationPerformance and https://github.com/alpaddesai/SoftwareEngineering
+Advanced knowledge reference https://github.com/alpaddesai/SoftwareEngineering
