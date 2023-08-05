@@ -10,9 +10,6 @@ The project provides an overview object oriented programming in Java
 ## Java Certification 
 ![image](ProgramminginJava.jpg)
 
-## Modern Java
-![image](ModernJava.jpg)
-
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
