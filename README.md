@@ -7,9 +7,6 @@ The project provides an overview object oriented programming in Java
 ## Java Certification
 ![image](Java.jpg)
 
-## Java Certification 
-![image](ProgramminginJava.jpg)
-
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
